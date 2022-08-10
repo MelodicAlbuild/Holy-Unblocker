@@ -286,4 +286,4 @@ This project currently uses Ultraviolet, Womginx, and Rammerhead, linked below.
 
 - <a href="https://soyoustart.com/">SoYouStart / OVH</a> (Hosting Provider)
 
-Thanks :D
+Thanks
